@@ -1,0 +1,19 @@
+{
+  "name": "now-project",
+  "version": "0.1.0",
+  "description": "dummy now project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "now",
+    "dummy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
